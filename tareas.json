@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "fask": "ir a comprar",
+    "completed": false
+},¨{
+    "id": 2,
+    "fask": "ir al gimnasio",
+    "completed": false
+}, {
+    "id": 3,
+    "fask": "lavar la moto",
+    "completed": true 
+}, {
+    "id": 4,
+    "fask": "actualizar version de vs code",
+    "completed": true
+}
